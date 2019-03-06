@@ -2,6 +2,9 @@ public class Nowa1
 {
     public static void main(String[] args)
     {
-        System.out.println();
+        System.out.println("Hello1");
+        System.out.println("Hello1");
+        System.out.println("Hello1");
+        System.out.println("Hello1");
     }
 }
